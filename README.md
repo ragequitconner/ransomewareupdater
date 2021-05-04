@@ -1,0 +1,1 @@
+This is a "ransomeware" script that just updates your kernal for you.
